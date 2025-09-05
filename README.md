@@ -3,7 +3,6 @@
 This PowerShell script converts a CSV file of server and network device information into an XML file that can be imported into mRemoteNG.
 
 **Now supports Port, Icon, and Panel attributes for each connection!**
-
 ## Features
 
 *   Converts a CSV file to an mRemoteNG XML file.
