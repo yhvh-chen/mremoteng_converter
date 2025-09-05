@@ -1,0 +1,5 @@
+Name,Hostname,Protocol,Container,Port,Icon,Description
+Server1,192.168.1.1,RDP,Servers\Web Servers,3389,mRemote,This is a web server.
+Server2,192.168.1.2,RDP,Servers\Database Servers,3389,Database,This is a database server.
+Switch1,10.0.0.1,SSH2,Network\Switches,22,Switch,This is a core switch.
+Firewall,10.0.0.2,SSH2,Network\Firewalls,22,Firewall,This is the main firewall.
